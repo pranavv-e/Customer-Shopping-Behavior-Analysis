@@ -134,20 +134,21 @@ These recommendations are derived from the project analysis.
 
 ## 📁 Repository Structure
 
-```
+```text
 Customer-Shopping-Behavior-Analysis
 │
-├── Customer Shopping Behavior Analysis.ipynb
-├── SQL_Queries.sql
-├── customer_shopping_behavior.csv
+├── .gitignore
 ├── Customer Shopping Behavior Analysis Report.pdf
+├── Customer Shopping Behavior Analysis.ipynb
+├── Customer Shopping Behavior Analysis.pbix
 ├── Customer-Shopping-Behavior-Analysis-Slides.pdf
-├── README.md
+├── Dashboard.png
 ├── LICENSE
-└── .gitignore
+├── README.md
+├── SQL_Queries.sql
+└── customer_shopping_behavior.csv
 ```
 
----
 
 ## ▶️ How to Run
 
@@ -196,3 +197,6 @@ Aspiring Data Analyst
 - Data Analysis
 - Data Visualization
 
+### Connect with Me
+- GitHub: https://github.com/pranavv-e
+- LinkedIn: https://www.linkedin.com/in/pranav-e-b38434381/
